@@ -3,7 +3,7 @@ BootIgnighter
 BootIgnighter is a project that provides devs with a quick-start to using Twitter's Bootstrap CSS Framework with the PHP MVC Framework, CodeIgnighter.
 Along with the Bootstrap files jQuery-1.11.1 and Shiv-HTML5 fix for Internet Explorer 8 or older is also included.
 
-# FILE STRUCTURE
+## FILE STRUCTURE
  Bootstrap files are located in the Bootstrap directory in the project root, Bootstrap files are purposely kept seperate to allow SASS or LESS to be used easier.
 
 * jQuery and HTML5 Fix are located in the /js directory in the project root.
@@ -17,7 +17,7 @@ Along with the Bootstrap files jQuery-1.11.1 and Shiv-HTML5 fix for Internet Exp
 * We recommend Fonts are put in the /fonts directory.
 
 
-# DEFAULT SETUP
+## DEFAULT SETUP
 * All required files are included in the header.php file located in CodeIgnighter's default Views directory, /application/views     /templates/header.php
 
 * A DIV tag with the "container" class is opened in the header.php file and closed in the footer.php file.
@@ -30,8 +30,12 @@ Along with the Bootstrap files jQuery-1.11.1 and Shiv-HTML5 fix for Internet Exp
 
 WE HOPE THIS HELPS QUICKLY SETUP YOUR CODEIGNIGHTER+BOOTSTRAP PROJECTS, FEEL FREE TO SHARE THIS WITH YOUR FRIENDS/COLLEAGUES
 
-RED ACER DESIGN
-Twitter @redacerdesign
-Facebook /redacerdesign
-GitHub /RedAcerDesign
-Website http://www.redacerdesign.co.uk
+**RED ACER DESIGN**
+
+[Twitter] (www.twitter.com/redacerdesign)
+
+[Facebook] (www.facebook.com/redacerdesign)
+
+[GitHub] (www.github.com/RedAcerDesign)
+
+[Website] (http://www.redacerdesign.co.uk)

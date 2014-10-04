@@ -32,10 +32,10 @@ WE HOPE THIS HELPS QUICKLY SETUP YOUR CODEIGNIGHTER+BOOTSTRAP PROJECTS, FEEL FRE
 
 **RED ACER DESIGN**
 
-[Twitter] (www.twitter.com/redacerdesign)
+[Twitter](http://www.twitter.com/redacerdesign)
 
-[Facebook] (www.facebook.com/redacerdesign)
+[Facebook](http://www.facebook.com/redacerdesign)
 
-[GitHub] (www.github.com/RedAcerDesign)
+[GitHub](http://www.github.com/RedAcerDesign)
 
-[Website] (http://www.redacerdesign.co.uk)
+[Website](http://www.redacerdesign.co.uk)
